@@ -18,3 +18,6 @@ Run the function as follows:
 ````
 bash heartbeat.sh | python beat_counter.py 
 ````
+
+##Status 
+This program is incomplete.  More specifically, the getting_input() is not functioning.  I am having trouble interacting with the shell stream.  As such, I wrote out the logic behind my functions so that you have some idea where I was going with my solution. 
